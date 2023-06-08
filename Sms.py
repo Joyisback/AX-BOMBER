@@ -95,7 +95,7 @@ if 'MR'==user and 'ALEX '==pas:
         Axak(g+"\n\n\t\t      LOGIN SUCCESSFUL  ")
 
 else:
-        Axak(y+"\n\n\t\t      Invalid User Or Pass
+        Axak(y+"\n\n\t\t      Invalid User Or Pass"
         Axak(y+"\n\n\t\tContract Admin For User And Pass")
         time.sleep(3)
         os.system('xdg-open https://www.facebook.com/profile.php?id=100093492936673&mibextid= ')
